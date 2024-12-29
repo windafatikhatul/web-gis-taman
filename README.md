@@ -1,2 +1,2 @@
-# sistem_geografis_kios
-Sistem Informasi Geografis KIOS pada Pasar Horas Pematangsiantar.
+# sistem_geografis_taman
+Sistem Informasi Geografis taman kecamatan jepara.
